@@ -1,0 +1,7 @@
+{
+  "utterance": "show mycroft",
+  "intent_type": "MycroftPlasmoidShowKeywordIntent",
+  "intent": {
+    "MycroftPlasmoidShowKeyword": "applet"
+  }
+}
