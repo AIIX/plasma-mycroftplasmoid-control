@@ -40,12 +40,12 @@ class MycroftPlasmoidControlSkill(MycroftSkill):
 
         bus = dbus.SessionBus()
         remote_object = bus.get_object("org.kde.mycroftapplet", "/mycroftapplet")
-        remote_object.showMycroft(dbus_interface="org.kde.mycroftapplet")
+        remote_object.showSkills(dbus_interface="org.kde.mycroftapplet")
 
     def stop(self):
         pass
 
 # The "create_skill()" method is used to create an instance of the skill.
 # Note that it's outside the class itself.
-    def create_skill():
+def create_skill():
         return MycroftPlasmoidControlSkill()
