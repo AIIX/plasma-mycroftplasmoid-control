@@ -1,7 +1,7 @@
 {
-  "utterance": "display mycroft",
+  "utterance": "show skills",
   "intent_type": "MycroftPlasmoidShowSkillsKeywordIntent",
   "intent": {
-    "MycroftPlasmoidShowSkillsKeyword": "skills page"
+    "MycroftPlasmoidShowSkillsKeyword": "show skills"
   }
 }

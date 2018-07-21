@@ -1,0 +1,7 @@
+{
+  "utterance": "getarticle newsurl",
+  "intent_type": "MycroftPlasmoidReadNewsIntent",
+  "intent": {
+    "MycroftPlasmoidReadNewsKeyword": "getarticle newsurl"
+  }
+}
