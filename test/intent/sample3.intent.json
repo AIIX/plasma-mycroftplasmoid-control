@@ -1,0 +1,7 @@
+{
+  "utterance": "show list of installable skills",
+  "intent_type": "MycroftPlasmoidShowInstallerKeywordIntent",
+  "intent": {
+    "MycroftPlasmoidShowInstallerKeyword": "show list of installable skills"
+  }
+}
