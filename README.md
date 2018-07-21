@@ -1,22 +1,22 @@
-## plasma-mycroftplasmoid-control
-This skill allows control of the Mycroft Plasmoid itself
+## plasma-mycroft-applet-control
+This skill allows control of the Mycroft Plasmoid
 
 ## Description 
 #### Installation of skill:
-msm install plasma-mycroftplasmoid-control
+msm install plasma-mycroft-applet-control
 
 ### Manual Method
 * Download or Clone Git
 * Create /opt/mycroft/skills folder if it does not exist
-* Extract Downloaded Skill into a folder. "plasma-mycroftplasmoid-control". (Clone does not require this step)
-* Copy the plasma-mycroftplasmoid-control folder to /opt/mycroft/skills/ folder
+* Extract Downloaded Skill into a folder. "plasma-mycroft-applet-control". (Clone does not require this step)
+* Copy the plasma-mycroft-applet-control folder to /opt/mycroft/skills/ folder
 
 ##### Python Dbus is required for this skill
 
 ## Examples 
-* "Hey Mycroft, show mycroft applet"
+* "Hey Mycroft, show widget"
 * "Hey Mycroft, show skills"
-* "Hey Mycroft, display skills page"
+* "Hey Mycroft, show installable skills"
 
 ## Credits 
 Aix
